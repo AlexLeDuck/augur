@@ -1,6 +1,7 @@
 # Augur Software Engineering Project
 
 Semester Project for CS4320: Software Engineering
+
 Group 5: Alex LeDuc, Tyler Hoerschgen, and Sam McIntyre
 
 Our project's scope is currently staying the same. The only difficultly that we may still encounter is the change of the statistics over time. We may need to downgrade our scope for that, but otherwise, it will stay the same. We should be on track for Sprint 4 following a bit of cleanup after Sprint 3's deadline. A video demonstration of our project is currently not available, but will be soon, so look forward to that. 
