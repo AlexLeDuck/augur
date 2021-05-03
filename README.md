@@ -6,7 +6,7 @@ Group 5: Alex LeDuc, Tyler Hoerschgen, and Sam McIntyre
 
 Our project's scope is currently staying the same. The only difficultly that we may still encounter is the change of the statistics over time. We may need to downgrade our scope for that, but otherwise, it will stay the same. We should be on track for Sprint 4 following a bit of cleanup after Sprint 3's deadline. A video demonstration of our project is currently not available, but will be soon, so look forward to that. 
 
-If you'll look at our augur-community-reports fork, there will be an extra file in our fork called "issues_to_change_requests.ipynb". This file is part of our coding work for this sprint. The link to this repository was submitted as a comment on Canvas, or you can see it under our group's organization. We hope this works for you.
+If you'll look at our [augur-community-reports fork](https://github.com/SWEGroup5/augur-community-reports), there will be an extra file in our fork called "[issues_to_change_requests.ipynb](https://github.com/SWEGroup5/augur-community-reports/blob/master/issues_to_change_requests.ipynb)". This file is part of our coding work for this sprint. The link to this repository was submitted as a comment on Canvas, or you can see it under our group's organization. We hope this works for you.
 
 Below you will find the rest of Augur's default README.md file.
 
